@@ -1,0 +1,5 @@
+Crazy Dutch weather is a card game. But it used a phone as the game manager.
+
+This card game is a combination of ICC (inter cultural communication) and cards against humanity.
+
+For this project I made all the code as we did not have another programmer.

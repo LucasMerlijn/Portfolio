@@ -1,0 +1,5 @@
+PowerFix inc is a party game where you play as little aliens
+replacing inefficient items in the house and placing new items in.
+
+I've coding the player inputs, the multiplayer (local) inputs / interactions
+and some manager stuff.
